@@ -89,7 +89,7 @@ Per riprodurre il progetto è sufficiente:
 
 - `README.md` → informazioni sul progetto.
 - `ACSPubliCoverage.ipynb` → notebook completo con codice, analisi e risultati.
-- `RelazioneBottani(2154959)/DeRossi(1992222)Progetto IA2.pdf` → relazione finale.
+- `Bottani DeRossi Progetto IA2.pdf` → relazione finale.
 - `PresentazioneBottaniDeRossi.pdf` → slide della presentazione.
 
 
