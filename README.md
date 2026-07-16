@@ -25,7 +25,7 @@ Oltre alla valutazione delle prestazioni del classificatore, viene studiato il c
 
 ## Dataset
 
-Il dataset utilizzato è **ACSPublicCoverage**, distribuito tramite la libreria **Folktables** e derivato dall'**American Community Survey (ACS)** dello **U.S. Census Bureau**.
+Il dataset utilizzato è **ACSPublicCoverage**, estrabolato tramite la libreria **Folktables** e derivato dall'**American Community Survey (ACS)** dello **U.S. Census Bureau**.
 
 L'analisi è stata svolta sui dati relativi allo **Stato della California** nell'anno **2019**.
 
