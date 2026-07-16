@@ -80,17 +80,17 @@ Il notebook principale è organizzato nelle seguenti sezioni:
 
 Per riprodurre il progetto è sufficiente:
 
-1. Aprire il notebook **Progetto_IA2.ipynb**.
+1. Aprire il notebook **ACSPublicCoverage.ipynb**.
 2. Installare le librerie richieste, se non già disponibili.
 3. Eseguire le celle nell'ordine in cui sono presentate.
 
 
 ## File presenti nella consegna
 
-- `00_README.ipynb` → informazioni sul progetto.
-- `Progetto_IA2.ipynb` → notebook completo con codice, analisi e risultati.
-- `Relazione.pdf` → relazione finale.
-- `Presentazione.pdf` → slide della presentazione.
+- `README.md` → informazioni sul progetto.
+- `ACSPubliCoverage.ipynb` → notebook completo con codice, analisi e risultati.
+- `RelazioneBottani(2154959)/DeRossi(1992222)Progetto IA2.pdf` → relazione finale.
+- `PresentazioneBottaniDeRossi.pdf` → slide della presentazione.
 
 
 ## Risultati principali
